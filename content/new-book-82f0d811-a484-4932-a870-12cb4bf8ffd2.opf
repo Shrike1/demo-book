@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>New book</dc:title>
   </metadata>
-  <manifest><item href="new-book-5c3ce43a-6918-435e-91d7-523dc4f0ee1f-nav.html" id="new-book-5c3ce43a-6918-435e-91d7-523dc4f0ee1f-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-0225ce93-78b2-48f7-b0fe-ce2a02863224.html" id="module1-0225ce93-78b2-48f7-b0fe-ce2a02863224.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="new-book-5c3ce43a-6918-435e-91d7-523dc4f0ee1f-nav.html" id="new-book-5c3ce43a-6918-435e-91d7-523dc4f0ee1f-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-0225ce93-78b2-48f7-b0fe-ce2a02863224.html" id="module1-0225ce93-78b2-48f7-b0fe-ce2a02863224.html" media-type="application/xhtml+xml"/><item href="-b137c2f9-d734-481e-ab08-686f46b4d6d2.html" id="-b137c2f9-d734-481e-ab08-686f46b4d6d2.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
